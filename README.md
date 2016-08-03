@@ -1,2 +1,2 @@
 # test-book
-Repro for testing connection to GitBook
+Repo for testing connection to GitBook
